@@ -1,5 +1,5 @@
 { 
   "text": "hello world",
-  "fg": "0xFF00FF",
-  "bg": "0xDDF200"
+  "fg": "0x111111",
+  "bg": "0x800020"
 }
