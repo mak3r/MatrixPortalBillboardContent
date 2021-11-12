@@ -1,7 +1,7 @@
 {
     "url_hello": {
         "text" : "URL hello",
-        "bg_color": "0x800020",
+        "bg": "0x800020",
         "fg_color": "0x111111"
     }
 }
